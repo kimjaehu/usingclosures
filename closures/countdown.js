@@ -7,7 +7,7 @@ var countdownGenerator = function (x) {
     } else if (x < 0) {
       console.log(`Rockets already gone, bub!`)
     } else {
-      console.log(`Blast off!`)
+      console.log(`Blast off!`);
     }
     x -= 1
   }
